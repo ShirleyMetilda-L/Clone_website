@@ -1,1 +1,1 @@
-A clone website of the homepage of starbucks is created using html, tailwind css and javascript.
+This project is a front-end clone of the Starbucks homepage, built with HTML, Tailwind CSS, and JavaScript showcasing responsive design and modern front-end techniques.
